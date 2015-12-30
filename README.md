@@ -1,2 +1,3 @@
 # Hand-Tracker
-Track your hand in real time
+Hand Tracking using python, numpy and OpenCV
+Implemented using histogram backprojection and contours calculation techniques

@@ -5,6 +5,7 @@ import numpy as np
 # Author: Mostafa Mahmoud
 # Email: mostafa_mahmoud@protonmail.com
 # Created on: 12/16/15
+# License: MIT License
 
 class HandTracker:
     DEBUGGING = True
